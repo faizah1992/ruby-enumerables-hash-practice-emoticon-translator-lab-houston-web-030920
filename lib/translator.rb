@@ -1,7 +1,7 @@
 # require modules here
 
-def load_library
-  # code goes here
+def load_library(path)
+  all = {:get_meaning => {:japanese_emoticons => ['']} ,:get_emoticon =>{:english_emoticons => ['']}}
 end
 
 def get_japanese_emoticon
